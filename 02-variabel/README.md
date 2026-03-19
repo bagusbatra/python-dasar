@@ -5,7 +5,7 @@ Materi kedua dalam pembelajaran Python.
 ---
 
 # 📘 Isi Materi
-
+👉 [MATERI](./materi.md)
 * Pengertian variabel
 * Tipe data dasar
 * Cara menampilkan data
@@ -16,7 +16,7 @@ Materi kedua dalam pembelajaran Python.
 
 Kerjakan semua soal di:
 
-👉 `latihan02.md`
+👉 [LATIHAN02](./latihan02.md)
 
 ---
 

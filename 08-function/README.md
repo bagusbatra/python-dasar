@@ -28,16 +28,16 @@ Saat program mulai panjang, kita akan menemui masalah:
 
 Pelajari secara berurutan:
 
-1. [function.md](./function.md) → dasar function  
-2. [parameter.md](./parameter.md) → function dengan input  
-3. [return.md](./return.md) → function menghasilkan nilai  
+1. [FUNCTION](./function.md) → dasar function  
+2. [PARAMETER](./parameter.md) → function dengan input  
+3. [RETURN](./return.md) → function menghasilkan nilai  
 
 ---
 
 ## 📝 Latihan
 
 Kerjakan:
-👉 [latihan08.md](./latihan08.md)
+👉 [LATIHAN08](./latihan08.md)
 
 ---
 

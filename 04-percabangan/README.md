@@ -5,6 +5,8 @@ Materi keempat dalam pembelajaran Python.
 ---
 
 # 📘 Isi Materi
+👉 [MATERI](./materi.md)
+👉 [FLOWCHART](./flowchart.md)
 
 - if
 - else
@@ -17,7 +19,7 @@ Materi keempat dalam pembelajaran Python.
 
 Kerjakan semua soal di:
 
-👉 `latihan.md`
+👉 [LATIHAN04](./latihan04.md)
 
 ---
 

@@ -5,7 +5,6 @@ Materi keenam dalam pembelajaran Python.
 ---
 
 # 🎯 Tujuan
-
 - Memahami konsep perulangan
 - Menggunakan `while` dan `for`
 - Membuat program otomatis & efisien
@@ -13,6 +12,8 @@ Materi keenam dalam pembelajaran Python.
 ---
 
 # 📘 Isi Materi
+👉 [FORLOOP](./forloop.md)
+👉 [WHILELOOP](./whileloop.md)
 
 - While Loop → perulangan dengan kondisi
 - For Loop → perulangan dengan jumlah tertentu
@@ -23,7 +24,7 @@ Materi keenam dalam pembelajaran Python.
 
 Kerjakan di:
 
-👉 `latihan06.md`
+👉 [LATIHAN06](./latihan06.md)
 
 ---
 

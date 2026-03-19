@@ -5,7 +5,7 @@ Materi lanjutan setelah percabangan.
 ---
 
 # 📘 Isi Materi
-
+👉 [MATERI](./materi.md)
 - Operator Aritmatika
 - Operator Perbandingan
 - Operator Logika
@@ -16,8 +16,7 @@ Materi lanjutan setelah percabangan.
 
 Kerjakan di:
 
-👉 `latihan05.md`
-
+👉 [LATIHAN05](./latihan05.md)
 ---
 
 # 📤 Pengumpulan

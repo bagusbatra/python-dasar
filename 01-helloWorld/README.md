@@ -5,6 +5,7 @@ Materi pertama dalam pembelajaran Python.
 ---
 
 # 📘 Isi Materi
+👉 [MATERI](./materi.md)
 
 * Apa itu `print()`
 * Cara menjalankan Python
@@ -16,7 +17,7 @@ Materi pertama dalam pembelajaran Python.
 
 Kerjakan semua soal di:
 
-👉 `latihan01.md`
+👉 [LATIHAN01](./latihan01.md)
 
 ---
 

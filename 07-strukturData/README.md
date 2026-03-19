@@ -33,18 +33,18 @@ Contoh:
 
 Pelajari secara berurutan:
 
-1. [list.md](./list.md) → dasar menyimpan banyak data  
-2. [tuple.md](./tuple.md) → data tetap (tidak bisa diubah)  
-3. [set.md](./set.md) → data unik (tanpa duplikat)  
-4. [dictionary.md](./dictionary.md) → data key & value  
-5. [nested.md](./nested.md) → kombinasi semua struktur data  
+1. [LIST](./list.md) → dasar menyimpan banyak data  
+2. [TUPLE](./tuple.md) → data tetap (tidak bisa diubah)  
+3. [SET](./set.md) → data unik (tanpa duplikat)  
+4. [DICTIONARY](./dictionary.md) → data key & value  
+5. [NESTED](./nested.md) → kombinasi semua struktur data  
 
 ---
 
 ## 📝 Latihan
 
 Kerjakan semua soal di:
-👉 [latihan07.md](./latihan07.md)
+👉 [LATIHAN](./latihan07.md)
 
 ---
 
