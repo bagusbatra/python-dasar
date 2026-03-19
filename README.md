@@ -59,14 +59,16 @@ Python digunakan di berbagai bidang, seperti:
 Materi disusun secara bertahap:
 
 ```text
+00. Instalasi
 01. Hello World
 02. Variabel
 03. Input & Output
 04. Percabangan
-05. Perulangan
-06. List & Dictionary
-07. Function
-08. Mini Project
+05. Operator
+06. Perulangan
+07. Struktur Data
+08. Function
+09. Mini Project
 ```
 
 ---
@@ -81,10 +83,11 @@ python-dasar/
 ├── 02-variabel/
 ├── 03-input-output/
 ├── 04-percabangan/
-├── 05-perulangan/
-├── 06-list-dan-dict/
-├── 07-function/
-├── 08-mini-project/
+├── 05-operator/
+├── 06-perulangan/
+├── 07-strukturData/
+├── 08-function/
+├── 09-mini-project/
 │
 ├── pengumpulan/
 │   ├── nama_siswa/
@@ -149,7 +152,6 @@ pengumpulan/bagus/
 Contoh:
 
 ```bash
-halo.py
 latihan1.py
 latihan2.py
 ```
@@ -183,7 +185,7 @@ git push origin main
 
 # ⚠️ Rules (WAJIB DIIKUTI)
 
-## ❌ Dilarang:
+## ❌ **Dilarang**:
 
 * Copy paste dari teman
 * Menggunakan AI tanpa memahami kode
@@ -221,6 +223,7 @@ git commit -m "menyelesaikan latihan perulangan"
 
 Setelah menyelesaikan semua materi, kamu akan mampu:
 
+* Dapat membaca sebuah kode program
 * Membuat program sederhana
 * Memahami alur logika coding
 * Siap lanjut ke pembelajaran python lanjutan sesuai kebutuhan
