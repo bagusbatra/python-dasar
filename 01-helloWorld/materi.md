@@ -134,6 +134,12 @@ Semua teks setelah # akan diabaikan oleh Python
 
 ---
 
+# 🚀 TUGAS
+
+👉 [LATIHAN01](./latihan01.md/)
+
+---
+
 # 🚀 Selanjutnya
 
 👉 [02 - Variabel](../02-variabel/)

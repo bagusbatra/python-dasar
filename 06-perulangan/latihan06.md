@@ -160,3 +160,7 @@ pengumpulan/nama_kamu/
 ---
 
 💪 Kamu sudah masuk level automation!
+
+# 🚀 Materi Selanjutnya
+
+👉 [07 - Struktur Data](../07-strukturData/)

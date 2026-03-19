@@ -213,3 +213,13 @@ Return adalah:
 ---
 
 🔥 Kalau kamu paham return, kamu sudah naik ke level programmer serius!
+
+---
+
+# 🚀 TUGAS
+
+👉 [LATIHAN08](./latihan08.md/)
+
+# 🚀 Materi Selanjutnya
+
+👉 [Tugas Akhir](../09-miniProject/)

@@ -105,6 +105,6 @@ print("Total:", total)
 
 ---
 
-# 🚀 Selanjutnya
+# 🚀 TUGAS
 
-👉 [For Loop](./forloop.md)
+👉 [LATIHAN06](./latihan06.md/)

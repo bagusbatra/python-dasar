@@ -32,5 +32,5 @@ pengumpulan/nama_kamu/
 
 # 🚀 Navigasi
 
-⬅️ [01 - Hello World](../01-hello-world/)
-➡️ [03 - Input & Output](../03-input-output/)
+⬅️ [01 - Hello World](../01-helloWorld/)
+➡️ [03 - Input & Output](../03-inputOutput/)

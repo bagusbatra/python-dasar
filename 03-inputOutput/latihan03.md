@@ -83,3 +83,7 @@ pengumpulan/nama_kamu/
 ---
 
 Semangat! 💪
+
+# 🚀 Materi Selanjutnya
+
+👉 [04 - Percabangan](../04-percabangan/)

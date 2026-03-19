@@ -75,3 +75,7 @@ Buat output seperti ini:
 ---
 
 Semangat! 💪
+
+# 🚀 Materi Selanjutnya
+
+👉 [02 - Variabel](../02-variabel/)

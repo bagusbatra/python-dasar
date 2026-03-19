@@ -184,6 +184,12 @@ if nilai >= 80 or nilai <= 100
 
 ---
 
+# 🚀 TUGAS
+
+👉 [LATIHAN05](./latihan05.md/)
+
+---
+
 # 🚀 Selanjutnya
 
 👉 [06 - Perulangan](../06-perulangan/)

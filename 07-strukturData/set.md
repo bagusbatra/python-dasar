@@ -235,3 +235,7 @@ Set adalah:
 ---
 
 🔥 Kalau kamu paham set, kamu sudah bisa mengolah data dengan lebih rapi!
+
+# 🚀 Selanjutnya
+
+👉 [DICTIONARY](./dictionary.md)

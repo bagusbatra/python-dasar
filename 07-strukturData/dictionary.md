@@ -201,3 +201,7 @@ Dictionary adalah:
 ---
 
 🔥 Kalau kamu paham dictionary, kamu sudah siap membuat sistem data sederhana!
+
+# 🚀 Selanjutnya
+
+👉 [LATIHAN07](./latihan07.md)

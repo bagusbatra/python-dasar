@@ -217,3 +217,7 @@ List adalah:
 ---
 
 🔥 Kalau kamu sudah paham list, kamu sudah naik level dalam Python!
+
+# 🚀 Selanjutnya
+
+👉 [TUPLE](./tuple.md)

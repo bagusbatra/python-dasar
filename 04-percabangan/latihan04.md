@@ -191,3 +191,7 @@ pengumpulan/nama_kamu/
 ---
 
 Semangat! 💪
+
+# 🚀 Materi Selanjutnya
+
+👉 [05 - operator](../05-operator/)

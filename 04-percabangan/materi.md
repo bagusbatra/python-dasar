@@ -190,6 +190,12 @@ if umur == 17
 
 ---
 
+# 🚀 TUGAS
+
+👉 [LATIHAN04](./latihan04.md/)
+
+---
+
 # 🚀 Selanjutnya
 
 👉 [05 - Operator](../05-operator/)

@@ -39,4 +39,4 @@ pengumpulan/nama_kamu/
 # 🚀 Navigasi
 
 ⬅️ [05 - Operator](../05-operator/)  
-➡️ [07 - List and Dict](../07-listAndDict/)
+➡️ [07 - List and Dict](../07-strukturData/)

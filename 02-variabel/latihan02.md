@@ -87,3 +87,7 @@ pengumpulan/nama_kamu/
 ---
 
 Semangat! 💪
+
+# 🚀 Materi Selanjutnya
+
+👉 [03 - Input & Output](../03-inputOutput/)

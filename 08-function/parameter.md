@@ -163,3 +163,7 @@ Parameter adalah:
 ---
 
 🔥 Dengan parameter, function kamu jadi lebih pintar!
+
+# 🚀 Selanjutnya
+
+👉 [RETURN](./return.md)

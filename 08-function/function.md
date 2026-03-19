@@ -176,3 +176,7 @@ Function adalah:
 ---
 
 🔥 Kalau kamu paham function, kamu sudah mulai jadi programmer beneran!
+
+# 🚀 Selanjutnya
+
+👉 [PARAMETER](./parameter.md)

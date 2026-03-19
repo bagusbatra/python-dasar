@@ -136,6 +136,12 @@ nama = input("Nama: ")
 
 ---
 
+# 🚀 TUGAS
+
+👉 [LATIHAN03](./latihan03.md/)
+
+---
+
 # 🚀 Selanjutnya
 
 👉 [04 - Percabangan](../04-percabangan/)

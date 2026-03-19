@@ -181,3 +181,7 @@ Tuple adalah:
 ---
 
 🔥 Kalau kamu paham tuple, kamu sudah tahu cara menjaga data tetap aman!
+
+# 🚀 Selanjutnya
+
+👉 [SET](./set.md)

@@ -130,3 +130,7 @@ pengumpulan/nama_kamu/
 ---
 
 💪 Semangat, sedikit lagi anda mahir python dasar!
+
+# 🚀 Materi Selanjutnya
+
+👉 [08 - Function](../08-function/)

@@ -184,6 +184,12 @@ a = "Bagus"
 
 ---
 
+# 🚀 TUGAS
+
+👉 [LATIHAN02](./latihan02.md/)
+
+---
+
 # 🚀 Selanjutnya
 
-👉 [03 - Input & Output](../03-input-output/)
+👉 [03 - Input & Output](../03-inputOutput/)

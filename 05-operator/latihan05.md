@@ -164,3 +164,7 @@ pengumpulan/nama_kamu/
 ---
 
 💪 Kamu sudah masuk level problem solver!
+
+# 🚀 Materi Selanjutnya
+
+👉 [06 - Perulangan](../06-perulangan/)
